@@ -17,13 +17,13 @@
 window.SITE_CONTENT = {
 
   // ---------- IDENTITY ----------
-  name: "Your Name",
+  name: "Venika",
   tagline: "AI & Medicine — Research Log",
   location: "Round Rock, TX",
   focusArea: "Computational Oncology",
-  email: "you@example.com",
-  github: "https://github.com/yourusername",
-  linkedin: "https://linkedin.com/in/yourusername",
+  email: "venika.kakarla2027@gmail.com",
+  github: "https://github.com/Lucky405",
+  linkedin: "https://www.linkedin.com/in/venika-kakarla-60b34727a/",
 
   // ---------- HERO ----------
   heroIntro:
