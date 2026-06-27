@@ -17,7 +17,7 @@
 window.SITE_CONTENT = {
 
   // ---------- IDENTITY ----------
-  name: "Venika",
+  name: "Venika Kakarla",
   tagline: "AI & Medicine — Research Log",
   location: "Round Rock, TX",
   focusArea: "Computational Oncology",
